@@ -1,5 +1,7 @@
-12.08.18 (20180626.1)
+20180626.1
 ========
+
+(12.08.18)
 
 - Fix lag reconnect attemp #1
 - Nice triangles
